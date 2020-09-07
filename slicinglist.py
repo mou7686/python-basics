@@ -1,0 +1,11 @@
+monday_temperatures = ["hello",1,4,5,7,2,3,9]
+print(len(monday_temperatures))
+print(monday_temperatures[2:5])
+print(monday_temperatures[0:3])
+print(monday_temperatures[:3])
+print(monday_temperatures[4:])
+print(monday_temperatures[-1])
+print(monday_temperatures[-2:])
+print(monday_temperatures[-4:-2])
+print(monday_temperatures[0])
+print(monday_temperatures[0][2])
